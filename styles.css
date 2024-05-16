@@ -1,0 +1,33 @@
+h1,p{
+    text-align: center;
+}
+
+.accueil{
+    width: 50%;
+    height: auto;
+}
+.debut{
+    padding: 10px 20px;
+    font-size: 16px;
+    align-items: center;
+}
+
+.result.red {
+    color: red;
+    text-align: center;
+}
+
+.result.orange {
+    color: orange;
+    text-align: center;
+}
+
+.result.green {
+    color: green;
+    text-align: center;
+}
+
+.quizz{
+    width: 50%;
+    height: 50%;
+}
